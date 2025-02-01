@@ -3,7 +3,7 @@ ASGI config for A2SL project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
-For more information on this file, see
+For more information on this file,
 https://docs.djangoproject.com/en/3.0/howto/deployment/asgi/
 """
 
