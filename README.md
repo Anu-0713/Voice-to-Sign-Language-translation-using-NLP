@@ -9,9 +9,6 @@ This project aims to bridge the communication gap between the hearing and speech
 - **Text Processing**: Utilizes NLP to process and interpret the transcribed text.
 - **Sign Language Translation**: Maps processed text to corresponding sign language representations.
 
-
-Project Demo Video: https://youtu.be/YiHhD0QGrno
-
 ## Prerequisites
 
 > - Python >= 3.7
